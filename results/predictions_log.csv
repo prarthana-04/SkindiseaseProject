@@ -1,0 +1,4 @@
+timestamp,file,final_choice,SVM_pred,SVM_conf,RandomForest_pred,RandomForest_conf,KNN_pred,KNN_conf
+1764867022431,C:\Users\Dell\Desktop\MCA\Project Work\SkindiseaseProject\captured_images\nv_1764867018413.jpg,nv,nv,0.657050689600743,nv,0.63,nv,0.8
+1765186499479,C:\Users\Dell\Desktop\MCA\Project Work\SkindiseaseProject\captured_images\bcc_1765186490716.jpg,bcc,bcc,0.7320187520328052,bcc,0.235,bcc,0.4
+1766080119167,C:\Users\Dell\Desktop\MCA\Project Work\SkindiseaseProject\captured_images\bcc_1766080109452.jpg,bcc,bcc,0.7320187520328052,bcc,0.235,bcc,0.4
